@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cuongkem2k3&label=Profile%20views&color=0e75b6&style=flat" alt="cuongkem2k3" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cuongkem2k3" alt="cuongkem2k3" /></a> </p>
-
 - 🔭 I’m currently working on **VKU of ICT**
 
 - 🌱 I’m currently learning **HTML, CSS, Bootstrap, JS**
