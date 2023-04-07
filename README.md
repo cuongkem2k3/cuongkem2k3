@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **HTML, CSS, Bootstrap, JS**
 
 - 📫 How to reach me **huycuongk03@gmail.com**
-  <div style="display: flex;">
+  <div>
         <img src="https://i.pinimg.com/originals/67/89/8a/67898a4a9b640896e06e0eb6637decfe.gif" alt="" class="ing">
         <img src="https://i.pinimg.com/originals/54/a0/ec/54a0ecfac58c0f23440042afbef35086.gif" alt="" class="ing">
     </div>
