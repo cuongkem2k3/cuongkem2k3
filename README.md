@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning **HTML, CSS, Bootstrap, JS**
 
 - 📫 How to reach me **huycuongk03@gmail.com**
+- ![image](https://user-images.githubusercontent.com/104899894/230635906-bf94853c-df8e-45fb-a3a2-9bea8f84b21f.png)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
